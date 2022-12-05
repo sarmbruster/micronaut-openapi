@@ -43,3 +43,5 @@ paths:
 ----
 
 Notice how the javadoc comments are used to fill out the description of the API.
+
+If you want an controller being not visible in swagger output or swagger UI use the `@Hidden` annotation.
